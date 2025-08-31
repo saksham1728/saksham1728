@@ -1,163 +1,248 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm **Saksham Maheshwari**
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SAKSHAM%20MAHESHWARI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Intern%20%40%20Bearconnect&descAlignY=55&descSize=20)
+
+</div>
+
+<!-- Animated Text Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+SaaS+%7C+Cloud+Architecture" alt="Typing SVG" />
+</div>
+
+<!-- 3D Profile Card -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Development+Intern+%40+Bearconnect;Full+Stack+Developer;ECE+Student+%40+IIIT+Ranchi;Building+SaaS+%26+Automation+Solutions;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
+[![3D Profile](https://github-3d-contrib-graph.vercel.app/api?username=SakshamMaheshwari&theme=github_dark&bg_color=0d1117&hide_border=true&text_color=00f5ff&title_color=00f5ff)](https://github.com/SakshamMaheshwari)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 About Me
-- 🔭 Currently working as **Software Development Intern** at **Bearconnect** (LinkedIn automation SaaS)
-- 🎓 **B.Tech ECE** student at **IIIT Ranchi** (2022-2026)
-- 💼 Building scalable backend systems with **Express.js** & **NestJS**
-- 🌱 Exploring **AWS Cloud**, **Redis Job Queues**, and **CI/CD pipelines**
-- ⚡ Fun fact: I love turning complex problems into elegant solutions!
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 Contribution Snake Animation
-
+<!-- Interactive Profile Stats -->
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg)
+### 💫 **WHO AM I?**
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 💼 Professional Experience
-
-#### 🔹 **Software Development Intern** @ Bearconnect (Nov 2024 - Present)
-- 🚀 **SaaS LinkedIn Automation Platform** - Building scalable backend systems
-- 🛠️ **Tech Stack**: Express.js, NestJS migration, MongoDB, Redis, AWS EC2
-- 🔧 **Key Contributions**:
-  - LinkedIn posts & inbox features implementation
-  - Campaign workflow APIs using Unipile integration
-  - Binary/Base64 attachment handling with ffmpeg audio processing
-  - Redis job queue optimization & AWS EC2 deployment
-  - Jest testing framework integration
-
----
-
-### 📈 Activity Graph
-
-[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🎯 Current Learning Goals
-
-```javascript
+```js
 const saksham = {
-    currentlyLearning: ["AWS Cloud Architecture", "Redis Optimization", "CI/CD Pipelines"],
-    askMeAbout: ["Full Stack Development", "Backend APIs", "SaaS Architecture"],
-    technologies: {
-        backEnd: ["Node.js", "Express.js", "NestJS", "MongoDB", "PostgreSQL"],
-        frontEnd: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-        devOps: ["AWS EC2", "Docker", "Redis", "Jest Testing"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "Redis"],
-        misc: ["LinkedIn API", "Unipile", "ffmpeg", "Binary Processing"]
-    },
-    funFact: "I debug with console.log and I'm not ashamed! 🚀"
-};
+  role: "Software Development Intern",
+  company: "Bearconnect (LinkedIn SaaS)",
+  education: "B.Tech ECE @ IIIT Ranchi",
+  batch: "2022-2026",
+  passion: "Building scalable systems",
+  
+  currentlyBuilding: [
+    "LinkedIn automation workflows",
+    "Redis job queue systems", 
+    "AWS cloud architecture",
+    "NestJS backend migrations"
+  ],
+  
+  techStack: {
+    languages: ["TypeScript", "JavaScript", "Python", "C++"],
+    backend: ["Node.js", "Express", "NestJS"],
+    frontend: ["React", "Next.js", "Tailwind"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    cloud: ["AWS EC2", "Docker", "CI/CD"]
+  },
+  
+  funFact: "I turn coffee into code! ☕→💻"
+}
 ```
 
----
-
-### 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-maheshwari28)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisaksham012@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-
-</div>
-
----
-
-### ⚡ Random Dev Quote
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Matrix Rain Effect -->
+![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+**🎯 CURRENT FOCUS**
+- 🚀 **Bearconnect SaaS Platform** - LinkedIn automation
+- ⚡ **Backend Systems** - Express to NestJS migration  
+- 🌊 **Real-time Features** - Campaign workflows & APIs
+- 🔧 **DevOps** - AWS deployment & Redis optimization
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-### 🎵 Spotify Playing
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Tech Stack with Animations -->
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+### ⚡ **TECH ARSENAL**
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c&theme=dark" />
+<br><br>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<br><br>
+<!-- Backend & Databases -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,redis&theme=dark" />
+<br><br>
+<!-- DevOps & Tools -->
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jest,firebase&theme=dark" />
 
 </div>
 
----
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Analytics Section -->
+<div align="center">
+
+### 📊 **GITHUB ANALYTICS**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
 
 <div align="center">
   
-### 💫 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**Thanks for stopping by! Let's build something amazing together! 🚀**
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SakshamMaheshwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/SakshamMaheshwari)
 
 </div>
 
----
+</td>
+<td width="50%">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SakshamMaheshwari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8)](https://github.com/SakshamMaheshwari)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakshamMaheshwari&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://github.com/SakshamMaheshwari)
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakshamMaheshwari&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)](https://github.com/SakshamMaheshwari)
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Professional Experience -->
+<div align="center">
+
+### 💼 **PROFESSIONAL JOURNEY**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="30%" align="center">
+
+![Experience](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif)
+
+</td>
+<td width="70%">
+
+#### 🚀 **Software Development Intern @ Bearconnect** 
+*Nov 2024 - Present*
+
+**Building the future of LinkedIn automation SaaS**
+
+🔹 **Backend Architecture**: Migrating Express.js to NestJS for better scalability  
+🔹 **LinkedIn Integration**: Implementing posts, inbox features & campaign workflows  
+🔹 **API Development**: Building robust APIs using Unipile integration  
+🔹 **Media Processing**: Binary/Base64 handling with ffmpeg audio transcoding  
+🔹 **Queue Systems**: Redis job queue optimization for background tasks  
+🔹 **Cloud Deployment**: AWS EC2 setup with CI/CD pipeline concepts  
+🔹 **Testing**: Jest framework integration for reliable code quality  
+
+**Tech Stack**: `Node.js` `Express.js` `NestJS` `MongoDB` `Redis` `AWS` `Jest`
+
+</td>
+</tr>
+</table>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contribution Snake -->
+<div align="center">
+
+### 🐍 **CONTRIBUTION SNAKE**
+
+![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Trophies -->
+<div align="center">
+
+### 🏆 **ACHIEVEMENTS**
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SakshamMaheshwari&theme=radical&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/SakshamMaheshwari)
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect Section -->
+<div align="center">
+
+### 🌐 **LET'S CONNECT**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/saksham-maheshwari28)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:maheshwarisaksham012@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/SakshamMaheshwari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](#)
+
+</div>
+
+<!-- Random Quote -->
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SakshamMaheshwari&style=for-the-badge&color=00f5ff&labelColor=000000)
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+
+### 💫 **"In a world full of algorithms, be the one who writes them!"** 
+
+**Thanks for visiting! Let's build something extraordinary together! 🚀**
+
+</div>
