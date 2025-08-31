@@ -212,49 +212,6 @@ const saksham = {
 
 </div>
 
-<!-- WakaTime Stats -->
-<div align="center">
-
-### ⏰ **CODING TIME**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Current Projects -->
-<div align="center">
-
-### 🚧 **CURRENT PROJECTS**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**🔗 Bearconnect SaaS**
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-<br>
-*LinkedIn Automation Platform*
-
-</td>
-<td width="50%" align="center">
-
-**🏥 Hospital Management**
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
-<br>
-*Healthcare Management System*
-
-</td>
-</tr>
-</table>
-
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
