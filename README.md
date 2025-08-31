@@ -1,19 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SAKSHAM%20MAHESHWARI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Intern%20%40%20Bearconnect&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SAKSHAM%20MAHESHWARI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Intern%20%40%20Bearconnect&descAlignY=55&descSize=20)
 
 </div>
 
 <!-- Animated Text Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+SaaS+%7C+Cloud+Architecture" alt="Typing SVG" />
-</div>
-
-<!-- Contribution 3D Graph -->
-<div align="center">
-  
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
 </div>
 
 <!-- Glowing Divider -->
@@ -85,28 +78,20 @@ const saksham = {
 
 ### ⚡ **TECH ARSENAL**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 <!-- Programming Languages -->
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c&theme=dark" />
 <br><br>
 
 <!-- Frontend Technologies -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 <br><br>
 
 <!-- Backend & Databases -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,redis&theme=dark" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30">
 <br><br>
 
 <!-- DevOps & Tools -->
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jest,firebase&theme=dark" />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
 
 </div>
 
@@ -153,13 +138,6 @@ const saksham = {
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham1728&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)](https://github.com/saksham1728)
-
-</div>
-
-<!-- Contribution Stats -->
-<div align="center">
-
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=saksham1728&theme=radical)
 
 </div>
 
@@ -210,6 +188,12 @@ const saksham = {
 ### 🐍 **CONTRIBUTION SNAKE**
 
 ![Snake animation](https://raw.githubusercontent.com/saksham1728/saksham1728/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham1728/saksham1728/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham1728/saksham1728/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saksham1728/saksham1728/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -315,7 +299,7 @@ const saksham = {
 <!-- Footer -->
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 ### 💫 **"Code is poetry written for machines to understand and humans to admire!"** 
 
